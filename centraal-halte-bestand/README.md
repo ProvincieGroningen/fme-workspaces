@@ -1,0 +1,3 @@
+Het [Centraal Halte Bestand](https://www.crow.nl/ndov/haltedatabeheer-1) bevat alle fysieke haltelocaties in Nederland. De data wordt beschikbaar gesteld als open data via de [NDOV](https://www.crow.nl/ndov)-loketten. De gegevens voldoen aan de [BISON standaard](http://bison.connekt.nl/standaarden/) voor fysieke haltestructuur en toegankelijkheid.
+
+Deze workspace is gemaakt in FME Desktop 2016. In de gevirtualiseerde desktopomgeving van de provincie Groningen werkt de workspace alleen goed in de 32 bit versie van de software. In de 64 bit versie genereert de Python code een foutmelding.
